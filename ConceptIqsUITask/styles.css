@@ -1,0 +1,232 @@
+/* General Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar Styles */
+.navbar {
+    padding: 1rem;
+}
+/* Hero Section Styles */
+.hero {
+    background-image: url('./medical.jpeg'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    color: #0c0c0c;
+    text-align: left;
+    padding: 180px 0px;
+}
+.hero-heading {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+.hero-paragraph {
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+}
+.success-stories {
+    background-color: #0b4e73; /* Dark blue background */
+    padding: 50px 0;
+  }
+  
+  .success-stories img {
+    border-radius: 20px; /* Rounded corners for the images */
+  }
+  
+  .success-badge {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 120px;
+    height: 120px;
+  }
+  
+  .success-badge img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .why-choose {
+    background-color: #f9f9f9; /* Light background for contrast */
+  }
+  
+  .title-section h6 {
+    font-size: 1.2rem;
+    font-weight: 300;
+  }
+  
+  .title-section h2 {
+    font-size: 2.5rem;
+  }
+  
+  .title-section p {
+    font-size: 1.1rem;
+    color: #6c757d; /* Light gray color for the paragraph */
+  }
+  
+  .icon-box img {
+    width: 100px;
+    height: 100px;
+    background-color: #84d5df; /* Light blue background */
+    border-radius: 50%;
+  }
+  
+  .icon-box h5 {
+    font-weight: 500;
+    margin-top: 10px;
+  }
+  body {
+    font-family: Arial, sans-serif;
+}
+
+h2, h3 {
+    color: #333;
+}
+
+.departments .card {
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+.departments .card:hover {
+    transform: scale(1.05);
+}
+
+.departments .card-body {
+    background-color: #f8f9fa;
+}
+
+.departments .btn-success {
+    background-color: #28a745;
+    border: none;
+}
+
+.home-care img {
+    border-radius: 10px;
+}
+
+.home-care h3 {
+    color: #333333;
+}
+
+.home-care .btn-warning {
+    background-color: #ffc107;
+    border: none;
+}
+
+.home-care .btn-warning:hover{
+    background-color: #e0a800;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #333;
+}
+
+/* News & Events */
+.news-events .card {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.news-events .btn-success {
+    background-color: #28a745;
+    border: none;
+}
+
+.news-events .btn-success:hover {
+    background-color: #218838;
+}
+
+/* Management Teams */
+.management-teams .card {
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.management-teams .card-body {
+    background-color: #f8f9fa;
+}
+
+.management-teams .social-icons i {
+    font-size: 1.5rem;
+    margin: 0 5px;
+    color: #333;
+}
+
+.management-teams .social-icons i:hover {
+    color: #007bff;
+}
+
+.management-teams button {
+    width: 100%;
+}
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Location Section */
+  #location h2 {
+    font-size: 36px;
+    font-weight: bold;
+  }
+  
+  #location .location-info {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+  }
+  
+  #location h3 {
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  #location p {
+    margin: 5px 0;
+  }
+  
+  #location .location-icon {
+    width: 80px;
+  }
+  
+  /* Contact Section */
+  #contact h2 {
+    font-size: 36px;
+    font-weight: bold;
+  }
+  
+  #contact p {
+    font-size: 18px;
+  }
+  
+  /* Footer Section */
+  footer h5 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  footer a {
+    color: hsl(241, 70%, 33%);
+  }
+  
+  footer .social-icons a {
+    color: #fff;
+    margin-right: 10px;
+    font-size: 18px;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
+  
